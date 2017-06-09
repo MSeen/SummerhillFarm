@@ -1,4 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
 
 
 
@@ -422,6 +425,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-0 .link {
   font-size: 0.95rem;
@@ -479,10 +483,19 @@ h6,
 }
 #footer1-2 P {
   color: #5b5b5b;
+  font-size: 15px;
 }
 #header1-1w .btn {
   font-size: 16px;
 }
+#header1-1w .mbr-section-lead {
+  font-family: 'Lora', serif;
+}
+#social-buttons3-2i .mbr-section-title,
+#social-buttons3-2i .btn-social {
+  color: #fff;
+}
+
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -560,8 +573,11 @@ h6,
 }
 #header3-17 SMALL {
   text-align: right;
-  color: #000000;
+  color: #28324e;
   font-size: 14px;
+}
+#header3-17 H3 {
+  font-size: 36px;
 }
 #header3-1a .mbr-section-title,
 #header3-1a .mbr-section-subtitle {
@@ -571,10 +587,32 @@ h6,
   font-size: 20px;
 }
 #header3-1a SMALL {
-  color: #000000;
+  color: #28324e;
+  font-size: 36px;
+  font-family: 'Lora', serif;
+}
+#header3-2f .mbr-section-title,
+#header3-2f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2f SMALL {
+  text-align: right;
+  color: #28324e;
   font-size: 14px;
 }
+#header3-2f H3 {
+  font-size: 36px;
+}
 
+
+#header3-2e .mbr-section-title,
+#header3-2e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2e H3 {
+  font-size: 36px;
+  font-family: 'Lora', serif;
+}
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -644,16 +682,17 @@ h6,
   background-color: #ffffff;
 }
 #contacts2-b P {
-  color: #7e9b9f;
+  color: #28324e;
 }
 #contacts2-b B {
-  color: #a38f84;
+  color: #28324e;
   font-family: 'Lora', serif;
   font-size: 16px;
 }
 #footer1-k P {
   color: #5b5b5b;
 }
+
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -727,22 +766,30 @@ h6,
 }
 #form1-13 .mbr-section-title {
   font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #28324e;
 }
 #form1-13 B {
-  color: #000000;
+  color: #28324e;
 }
 #form1-13 SMALL {
-  color: #000000;
+  color: #28324e;
+  font-size: 14px;
 }
 #footer1-k P {
   color: #5b5b5b;
 }
+
+
+
 #header3-m .mbr-section-title,
 #header3-m .mbr-section-subtitle {
   text-align: center;
 }
 #header3-m H3 {
   font-size: 20px;
+  color: #475577;
+  font-family: 'Lora', serif;
 }
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -757,6 +804,7 @@ h6,
 #menu-h .link,
 #menu-h .dropdown-item {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-h .link {
   font-size: 0.95rem;
@@ -814,6 +862,15 @@ h6,
 }
 #footer1-i P {
   color: #5b5b5b;
+  font-size: 15px;
+}
+#features3-2a H4 {
+  color: #28324e;
+  font-family: 'Lora', serif;
+}
+#features3-2a P {
+  color: #28324e;
+  font-size: 14px;
 }
 #header3-p .mbr-section-title,
 #header3-p .mbr-section-subtitle {
@@ -825,11 +882,14 @@ h6,
 }
 #header3-1p H3 {
   font-size: 20px;
+  color: #28324e;
 }
 #header3-1p SMALL {
-  color: #000000;
+  color: #28324e;
   font-size: 14px;
 }
+
+
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -843,6 +903,7 @@ h6,
 #menu-j .link,
 #menu-j .dropdown-item {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-j .link {
   font-size: 0.95rem;
@@ -900,6 +961,7 @@ h6,
 }
 #footer1-k P {
   color: #5b5b5b;
+  font-size: 15px;
 }
 #header3-s .mbr-section-title,
 #header3-s .mbr-section-subtitle {
@@ -911,10 +973,22 @@ h6,
 }
 #header3-t SMALL {
   text-align: right;
+  color: #28324e;
+  font-size: 14px;
 }
+#header3-t H3 {
+  color: #28324e;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+
+
+
 #content1-1j P {
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
+  color: #28324e;
+  font-family: 'Merriweather', serif;
 }
 #content1-1j SPAN {
   text-align: right;
@@ -922,6 +996,15 @@ h6,
 }
 #content1-1j BLOCKQUOTE {
   text-align: center;
+}
+#content1-1j H1 {
+  text-align: center;
+}
+#content1-1j H3 {
+  text-align: center;
+  color: #28324e;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
 }
 #menu-1k .hide-buttons .nav-btn {
   display: none !important;
@@ -936,6 +1019,7 @@ h6,
 #menu-1k .link,
 #menu-1k .dropdown-item {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-1k .link {
   font-size: 0.95rem;
@@ -993,7 +1077,12 @@ h6,
 }
 #footer1-1n P {
   color: #5b5b5b;
+  font-size: 15px;
 }
+
+
+
+
 
 #content1-e P {
   text-align: center;
@@ -1008,6 +1097,11 @@ h6,
 }
 #content1-e H1 {
   font-size: 20px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+#content1-e DIV {
+  color: #28324e;
 }
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
@@ -1022,6 +1116,7 @@ h6,
 #menu-1 .link,
 #menu-1 .dropdown-item {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-1 .link {
   font-size: 0.95rem;
@@ -1077,28 +1172,24 @@ h6,
 #menu-1 .close-icon::after {
   background-color: #ffffff;
 }
-#features3-d H5 {
-  font-size: 16px;
-}
-#features3-d B {
-  color: #000000;
-  font-size: 16px;
-}
-#features3-d P {
-  font-family: 'Lora', serif;
-  font-size: 14px;
-}
-#features3-d DIV {
-  font-size: 16px;
-  text-align: center;
-}
-#features3-d SPAN {
-  font-size: 14px;
-  color: #000000;
-}
 #footer1-4 P {
   color: #5b5b5b;
+  font-size: 15px;
 }
+#features3-22 H4 {
+  color: #28324e;
+  font-family: 'Lora', serif;
+}
+#features3-22 P {
+  color: #28324e;
+  font-size: 14px;
+  font-family: 'Merriweather', serif;
+}
+#features3-22 H5 {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+}
+
 
 #menu-1c .hide-buttons .nav-btn {
   display: none !important;
@@ -1113,6 +1204,7 @@ h6,
 #menu-1c .link,
 #menu-1c .dropdown-item {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-1c .link {
   font-size: 0.95rem;
@@ -1170,6 +1262,7 @@ h6,
 }
 #footer1-1d P {
   color: #5b5b5b;
+  font-size: 15px;
 }
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
@@ -1180,24 +1273,13 @@ h6,
   color: #000000;
   font-size: 14px;
 }
-#features3-1g H5 {
-  font-size: 16px;
-}
-#features3-1g B {
-  color: #000000;
-  font-size: 14px;
-}
-#features3-1g P {
+#header3-1e H3 {
+  color: #28324e;
   font-family: 'Lora', serif;
-  font-size: 14px;
+  font-size: 20px;
 }
-#features3-1g DIV {
-  font-size: 16px;
-  text-align: center;
-}
-#features3-1g SPAN {
-  font-size: 14px;
-  color: #000000;
+#features3-2c H4 {
+  color: #28324e;
 }
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
@@ -1207,6 +1289,6 @@ h6,
   font-size: 20px;
 }
 #header3-1q SMALL {
-  color: #000000;
+  color: #28324e;
   font-size: 14px;
 }

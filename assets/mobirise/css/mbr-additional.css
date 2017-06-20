@@ -491,10 +491,6 @@ h6,
 #header1-1w .mbr-section-lead {
   font-family: 'Lora', serif;
 }
-#social-buttons3-2i .mbr-section-title,
-#social-buttons3-2i .btn-social {
-  color: #fff;
-}
 
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
@@ -782,14 +778,33 @@ h6,
 
 
 
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
+
+
+#header3-2u .mbr-section-title,
+#header3-2u .mbr-section-subtitle {
   text-align: center;
 }
-#header3-m H3 {
+#header3-2u SMALL {
+  text-align: right;
+  color: #28324e;
+}
+#header3-2u H3 {
+  color: #28324e;
+  font-family: 'Merriweather', serif;
   font-size: 20px;
-  color: #475577;
+}
+#features3-34 H4 {
+  color: #28324e;
   font-family: 'Lora', serif;
+}
+#features3-34 P {
+  color: #28324e;
+  font-size: 14px;
+  font-family: 'Merriweather', serif;
+}
+#features3-34 H5 {
+  font-family: 'Lora', serif;
+  font-size: 16px;
 }
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -863,14 +878,6 @@ h6,
 #footer1-i P {
   color: #5b5b5b;
   font-size: 15px;
-}
-#features3-2a H4 {
-  color: #28324e;
-  font-family: 'Lora', serif;
-}
-#features3-2a P {
-  color: #28324e;
-  font-size: 14px;
 }
 #header3-p .mbr-section-title,
 #header3-p .mbr-section-subtitle {
@@ -1276,7 +1283,7 @@ h6,
 #header3-1e H3 {
   color: #28324e;
   font-family: 'Lora', serif;
-  font-size: 20px;
+  font-size: 32px;
 }
 #features3-2c H4 {
   color: #28324e;
@@ -1291,4 +1298,130 @@ h6,
 #header3-1q SMALL {
   color: #28324e;
   font-size: 14px;
+}
+
+
+
+
+#menu-2j .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2j .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#menu-2j .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2j .link,
+#menu-2j .dropdown-item {
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+}
+#menu-2j .link {
+  font-size: 0.95rem;
+}
+#menu-2j .dropdown-item,
+#menu-2j .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-2j .link:hover,
+#menu-2j .dropdown-item:hover,
+#menu-2j .link:focus,
+#menu-2j .dropdown-item:focus {
+  color: #7e9b9f;
+}
+#menu-2j .link[aria-expanded="true"],
+#menu-2j .dropdown-menu {
+  background: #648286;
+}
+#menu-2j .nav-dropdown-sm .link:focus,
+#menu-2j .nav-dropdown-sm .link:hover,
+#menu-2j .nav-dropdown-sm .dropdown-item:focus,
+#menu-2j .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#menu-2j .navbar,
+#menu-2j .nav-dropdown-sm,
+#menu-2j .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2j .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#menu-2j .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2j .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2j .bg-color.transparent.opened .link:hover,
+#menu-2j .bg-color.transparent.opened .link:focus {
+  color: #7e9b9f;
+}
+#menu-2j .link[aria-expanded="true"],
+#menu-2j .dropdown-item[aria-expanded="true"] {
+  color: #7e9b9f!important;
+}
+#menu-2j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2j .close-icon::before,
+#menu-2j .close-icon::after {
+  background-color: #ffffff;
+}
+#footer1-2k P {
+  color: #5b5b5b;
+  font-size: 15px;
+}
+#header3-2l .mbr-section-title,
+#header3-2l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2m .mbr-section-title,
+#header3-2m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2m SMALL {
+  text-align: right;
+  color: #28324e;
+  font-size: 14px;
+}
+#header3-2m H3 {
+  color: #28324e;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#header3-2m B {
+  font-size: 24px;
+}
+#header3-31 .mbr-section-title,
+#header3-31 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-31 SMALL {
+  text-align: right;
+  color: #28324e;
+  font-size: 24px;
+}
+#header3-31 H3 {
+  color: #28324e;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#header3-32 .mbr-section-title,
+#header3-32 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-32 SMALL {
+  text-align: right;
+  color: #28324e;
+  font-size: 24px;
+}
+#header3-32 H3 {
+  color: #28324e;
+  font-family: 'Lora', serif;
+  font-size: 36px;
 }

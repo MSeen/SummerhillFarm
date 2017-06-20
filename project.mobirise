@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Alpacas.html",
+    "currentPage": "Near Us.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1462,7 +1462,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/horseback-winery-tours-2000x665-800x266.jpg",
                 "image": "@PROJECT_PATH@/assets/images/horseback-winery-tours-2000x665.jpg",
-                "caption": "<a href=\"http://horseback.com.au/winery-tours/\">Peninsula Horseback Tours</a>",
+                "caption": "<a href=\"http://horseback.com.au/winery-tours/\" target=\"_blank\">Peninsula Horseback Tours</a>",
                 "active": false
               },
               {
@@ -1472,7 +1472,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sunnyridge-strawberries-2000x1845-1-800x738.png",
                 "image": "@PROJECT_PATH@/assets/images/sunnyridge-strawberries-2000x1845-1.png",
-                "caption": "<p><a href=\"http://www.sunnyridge.com.au/\">Sunny Ridge Strawberry Farm</a></p>",
+                "caption": "<p><a href=\"http://www.sunnyridge.com.au/\" target=\"_blank\">Sunny Ridge Strawberry Farm</a></p>",
                 "active": false
               },
               {
@@ -1482,7 +1482,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/distillary-ochre-bottle-w-decanter-large-2000x1329-800x531.jpg",
                 "image": "@PROJECT_PATH@/assets/images/distillary-ochre-bottle-w-decanter-large-2000x1329.jpg",
-                "caption": "<a href=\"https://www.bassandflindersdistillery.com/\">Bass and Flinders Distillery</a>",
+                "caption": "<a href=\"https://www.bassandflindersdistillery.com/\" target=\"_blank\">Bass and Flinders Distillery</a>",
                 "active": false
               },
               {
@@ -1492,7 +1492,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/johnny-ripe-007-2000x1334-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/johnny-ripe-007-2000x1334.jpg",
-                "caption": "<a href=\"http://johnnyripe.com.au/\">Johnny Ripe</a>",
+                "caption": "<a href=\"http://johnnyripe.com.au/\" target=\"_blank\">Johnny Ripe</a>",
                 "active": false
               },
               {
@@ -1502,7 +1502,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900-800x360.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900.jpg",
-                "caption": "Cottage Bathroom",
+                "caption": "<a href=\"https://www.tgallant.com.au/\" target=\"_blank\">T'Gallent</a>",
                 "active": false
               },
               {
@@ -1510,9 +1510,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900-800x360.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900.jpg",
-                "caption": "Cottage Bathroom",
+                "thumb": "@PROJECT_PATH@/assets/images/gordon-glassblowers-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gordon-glassblowers-2000x2000-1.jpg",
+                "caption": "<a href=\"http://www.gordonstudio.com.au/\" target=\"_blank\">Gordon Studio Glassblowers</a>",
                 "active": false
               },
               {
@@ -1520,9 +1520,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900-800x360.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900.jpg",
-                "caption": "Cottage Bathroom",
+                "thumb": "@PROJECT_PATH@/assets/images/montalto-2000x1333-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/montalto-2000x1333-1.jpg",
+                "caption": "<a href=\"https://montalto.com.au/\" target=\"_blank\">Montalto</a>",
                 "active": false
               },
               {
@@ -1530,9 +1530,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900-800x360.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tgallent-courtyard-entrance-2000x900.jpg",
-                "caption": "Cottage Bathroom",
+                "thumb": "@PROJECT_PATH@/assets/images/mrd-wilma-goat-2000x1076-1-800x430.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mrd-wilma-goat-2000x1076-1.jpg",
+                "caption": "<a href=\"http://mainridgedairy.com.au\" target=\"_blank\">Main Ridge Dairy</a>",
                 "active": false
               },
               {
@@ -1540,9 +1540,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/view-from-eastern-side3-2000x1343-800x537.jpg",
-                "image": "@PROJECT_PATH@/assets/images/view-from-eastern-side3-2000x1343.jpg",
-                "caption": "Cottage Bathroom",
+                "thumb": "@PROJECT_PATH@/assets/images/arthurs-seat-maze-2000x813-800x325.jpg",
+                "image": "@PROJECT_PATH@/assets/images/arthurs-seat-maze-2000x813.jpg",
+                "caption": "<p><a href=\"http://www.enchantedmaze.com.au/\" target=\"_blank\">Arthurs Seat Enchanted Maze</a></p>",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peninsula-hot-springs-2000x1240-1-800x496.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peninsula-hot-springs-2000x1240-1.jpg",
+                "caption": "<a href=\"https://www.peninsulahotsprings.com/\" target=\"_blank\">Peninsula Hot Springs</a>",
                 "active": false
               },
               {
@@ -1550,9 +1560,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bedroom-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bedroom-1-2000x1500.jpg",
-                "caption": "Cottage Bedroom",
+                "thumb": "@PROJECT_PATH@/assets/images/redhillestate-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redhillestate-2000x2000.jpg",
+                "caption": "<a href=\"https://www.redhillestate.com.au/\" target=\"_blank\">Red Hill Estate</a>",
                 "active": false
               },
               {
@@ -1560,9 +1570,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bedroom-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bedroom-1-2000x1500.jpg",
-                "caption": "Cottage Bedroom",
+                "thumb": "@PROJECT_PATH@/assets/images/mock-redhill-2000x1429-1-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/mock-redhill-2000x1429-1.png",
+                "caption": "<a href=\"http://mockredhill.com.au/\" target=\"_blank\">Mock Red Hill</a>",
                 "active": false
               },
               {
@@ -1570,19 +1580,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bedroom-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bedroom-1-2000x1500.jpg",
-                "caption": "Cottage Bedroom",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-and-door-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/table-and-door-2000x1500.jpg",
-                "caption": "<p>Lounge window and table</p>",
+                "thumb": "@PROJECT_PATH@/assets/images/ashcombe-maze-2000x670-1-800x268.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ashcombe-maze-2000x670-1.jpg",
+                "caption": "<a href=\"http://ashcombemaze.com.au/\" target=\"_blank\">Ashcombe Maze</a>",
                 "active": false
               }
             ],
@@ -2045,7 +2045,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3972.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3974.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2061,7 +2061,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3953.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3955.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

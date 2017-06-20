@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Gallery.html",
+    "currentPage": "Accommodation.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1685,7 +1685,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3978.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x39712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1701,7 +1701,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3959.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x39513.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

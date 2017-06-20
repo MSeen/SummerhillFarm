@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Near Us.html",
+    "currentPage": "Alpacas.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -414,32 +414,12 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alpacas1-2000x2000-72-2000x2000-41.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alpacas1-2000x2000-72.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423-45-2000x2423-90.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423-45.jpg",
-                "caption": "Stormy",
-                "active": false
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stormy-2000x2423-88-2000x2423-92.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stormy-2000x2423-88.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-1-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-1.jpg",
                 "caption": "Stormy",
                 "active": false
               },
@@ -448,18 +428,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906-78-2000x2906-70.png",
-                "image": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906-78.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-25-2000x1333-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-25.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cria-at-farm2-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cria-at-farm2-2000x3555.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -468,18 +438,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-89-2000x1497-79.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-89.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1768-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1768-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -500,6 +460,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/11079614-870061136369051-3783451284975568039-n-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11079614-870061136369051-3783451284975568039-n-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906-800x1162.png",
+                "image": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -541,11 +521,31 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1546130-853531334688698-1309393046352140590-n-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1546130-853531334688698-1309393046352140590-n-2000x2000.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new-cria-at-farm-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-cria-at-farm-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423-800x969.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
             "spacing": "0",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -569,7 +569,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "36px",
+              "font-size": "24px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -585,7 +585,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br>Find Us",
+          "title": "<br><br>Find Us",
           "meta": ""
         },
         {
@@ -697,7 +697,7 @@
           },
           "_anchor": "contacts2-b",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -850,7 +850,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "font-size": "20px",
+              "font-size": "24px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#28324e"
@@ -879,7 +879,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT US",
+          "title": "Contact Us",
           "subtitle": "<br><b>Phone:</b><br>61 (3) 5989 6077 &nbsp;<br><br><b>Email:</b>&nbsp;<br>summerhillfarm@westnet.com.au &nbsp;<br><br><b>Mail</b>:<br>264 Barkers Road<br>Main Ridge &nbsp;Vic &nbsp;3928<br>AUSTRALIA<br><br>Alternatively, fill out the following form and we'll be in touch. &nbsp;If relevant, please advise your proposed dates and number of guests. &nbsp;<br>We look forward to hearing from you.",
           "form": {
             "action": "summerhillfarm@westnet.com.au",
@@ -953,9 +953,9 @@
             },
             "H3": {
               "color": "#28324e",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "20px"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -1428,7 +1428,7 @@
               "color": "#28324e",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -1632,9 +1632,9 @@
             "H3": {
               "text-align": "center",
               "color": "#28324e",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "20px"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "24px"
             }
           },
           "_anchor": "content1-1j",
@@ -1857,10 +1857,10 @@
               "text-align": "center"
             },
             "H1": {
-              "font-size": "20px",
+              "font-size": "24px",
               "text-align": "center",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "DIV": {
               "color": "#28324e"
@@ -2045,7 +2045,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3974.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3976.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2061,7 +2061,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3955.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3957.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2266,7 +2266,7 @@
               "color": "#28324e",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -2587,7 +2587,7 @@
               "color": "#28324e",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-size": "24px"
             },
             "B": {
               "font-size": "24px"

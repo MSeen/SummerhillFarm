@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Accommodation.html",
+    "currentPage": "Availability & Prices.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,9 @@
     "uniqCompNum": 113,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -905,7 +907,7 @@
             "showMeta": true
           },
           "title": "<span style=\"line-height: 1.1;\">Booking Information</span><br>",
-          "meta": "<br>Additional charges apply if extra beds need are needed. &nbsp;Please contact us to discuss your requirements if this is the case.&nbsp;<br>Upon booking, a deposit (50% of the total value of your stay) is required to confirm your accommodation.<br>We understand that life happens and plans change. &nbsp;Please ring and advise - we may be able to find another date for your visit, if appropriate. &nbsp;<br>If you cancel more than 21 days prior to reservation date your deposit will be refunded less a $10.00    administration fee. &nbsp;<br>If notice is&nbsp;given 7 to 21 days prior to your booking, 50% of the deposit will be refunded. <br>If less than 7 days notice is given, no deposit will be refunded.<br><br>"
+          "meta": "<br>In general, check in from 2pm and check out before 11.00.<br>If you advise an approximate arrival time I can get either a heater or air conditioner going for your room if the weather is particularly hot or cold.<br>Additional charges apply if extra beds need are needed. &nbsp;Please contact us to discuss your requirements if this is the case.&nbsp;<br>Upon booking, a deposit (50% of the total value of your stay) is required to confirm your accommodation.<br>We understand that life happens and plans change. &nbsp;Please ring and advise - we may be able to find another date for your visit, if appropriate. &nbsp;<br>If you cancel more than 21 days prior to reservation date your deposit will be refunded less a $10.00    administration fee. &nbsp;<br>If notice is&nbsp;given 7 to 21 days prior to your booking, 50% of the deposit will be refunded. <br>If less than 7 days notice is given, no deposit will be refunded.<br><br>"
         }
       ]
     },
@@ -1685,7 +1687,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x39712.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3970.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1701,7 +1703,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x39513.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3951.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

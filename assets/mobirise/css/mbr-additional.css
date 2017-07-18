@@ -496,6 +496,7 @@ h6,
 
 
 
+
 #header3-2u .mbr-section-title,
 #header3-2u .mbr-section-subtitle {
   text-align: center;
@@ -503,6 +504,8 @@ h6,
 #header3-2u SMALL {
   text-align: right;
   color: #28324e;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #header3-2u H3 {
   color: #28324e;
@@ -613,6 +616,7 @@ h6,
 }
 
 
+
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -698,6 +702,7 @@ h6,
   text-align: right;
   color: #28324e;
   font-size: 14px;
+  font-family: 'Merriweather', serif;
 }
 #header3-t H3 {
   color: #28324e;
@@ -807,9 +812,11 @@ h6,
 
 
 
+
 #content1-e P {
   text-align: center;
-  font-size: 15px;
+  font-size: 14px;
+  font-family: 'Merriweather', serif;
 }
 #content1-e SPAN {
   text-align: right;
@@ -914,6 +921,7 @@ h6,
 }
 
 
+
 #menu-1c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -993,8 +1001,9 @@ h6,
 }
 #header3-1e SMALL {
   text-align: right;
-  color: #000000;
+  color: #28324e;
   font-size: 14px;
+  font-family: 'Merriweather', serif;
 }
 #header3-1e H3 {
   color: #28324e;
@@ -1002,6 +1011,9 @@ h6,
   font-size: 24px;
 }
 #features3-2c H4 {
+  color: #28324e;
+}
+#features3-2c H5 {
   color: #28324e;
 }
 #header3-1q .mbr-section-title,
@@ -1015,6 +1027,7 @@ h6,
   color: #28324e;
   font-size: 14px;
 }
+
 
 
 
@@ -1104,6 +1117,7 @@ h6,
   text-align: right;
   color: #28324e;
   font-size: 14px;
+  font-family: 'Merriweather', serif;
 }
 #header3-2m H3 {
   color: #28324e;
@@ -1147,6 +1161,8 @@ h6,
 #header3-32 SPAN {
   font-size: 18px;
 }
+
+
 
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
@@ -1230,6 +1246,10 @@ h6,
 }
 #header3-17 H3 {
   font-size: 36px;
+  color: #28324e;
+}
+#header3-17 SPAN {
+  font-family: 'Merriweather', serif;
 }
 #header3-1a .mbr-section-title,
 #header3-1a .mbr-section-subtitle {
@@ -1255,6 +1275,10 @@ h6,
 #header3-2f H3 {
   font-size: 36px;
 }
+#header3-2f SPAN {
+  font-family: 'Merriweather', serif;
+}
+
 
 
 #header3-38 .mbr-section-title,
@@ -1264,6 +1288,8 @@ h6,
 #header3-38 SMALL {
   text-align: right;
   color: #28324e;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #header3-38 H3 {
   color: #28324e;
@@ -1345,6 +1371,7 @@ h6,
 }
 
 
+
 #header3-2e .mbr-section-title,
 #header3-2e .mbr-section-subtitle {
   text-align: center;
@@ -1424,6 +1451,7 @@ h6,
 }
 #contacts2-b P {
   color: #28324e;
+  font-family: 'Merriweather', serif;
 }
 #contacts2-b B {
   color: #28324e;

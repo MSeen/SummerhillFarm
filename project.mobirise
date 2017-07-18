@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Wedding & Photo Shoots.html",
+    "currentPage": "Summalon Alpacas.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -158,7 +158,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_tags": [
@@ -212,7 +212,10 @@
             },
             "SMALL": {
               "text-align": "right",
-              "color": "#28324e"
+              "color": "#28324e",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "14px"
             },
             "H3": {
               "color": "#28324e",
@@ -480,7 +483,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_styles": {
@@ -655,7 +658,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_styles": {
@@ -685,7 +688,9 @@
             "SMALL": {
               "text-align": "right",
               "color": "#28324e",
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             "H3": {
               "color": "#28324e",
@@ -906,7 +911,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p></p><h3>About Us</h3><p><i style=\"line-height: 1.5;\">Summerhill Farm is situated on 10 peaceful acres at Main Ridge, 75 minutes from Melbourne CBD, in the heart of the picturesque Mornington Peninsula.</i><br></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-size: 14px; text-align: center; line-height: 1.5;\">Owned by Beverley Baker, Summerhill Farm is a working alpaca stud. &nbsp;We breed and show alpacas, shear them and sell the fleeces and yarns.</span><br></p><p><br></p><p>While we do not provide farming activities, guests are welcome to wander about and see our variety of animals - alpacas, horses, chickens, geese, peacocks and \"Boss Cocky &amp; The Missus\" - our very own visiting cockatoos.  We also provide a refuge for rescue animals.  Feel free to say hello to the Shetland pony Ginger Megs, our latest addition.</p><p><br></p><p><span style=\"font-size: 14px; text-align: center; line-height: 1.5;\">Summerhill Farm is a beautiful place to visit at any time of the year. &nbsp;Each season has its own appeal, and we love sharing our special part of the world.</span><br></p><p><br></p><p><br></p><p></p>"
+          "text": "<p></p><h3>About Us</h3><p><i style=\"line-height: 1.5;\">Summerhill Farm is situated on 10 peaceful acres at Main Ridge, 75 minutes from Melbourne CBD, in the heart of the picturesque Mornington Peninsula.</i><br></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-size: 14px; text-align: center; line-height: 1.5;\">Owned by Beverley Baker, Summerhill Farm is a working alpaca stud. &nbsp;We breed and show alpacas, shear them and sell the fleeces and yarns.</span><br></p><p><br></p><p>While we do not provide farming activities, guests are welcome to wander about and see our variety of animals - alpacas, horses, chickens, geese, peacocks and \"Boss Cocky &amp; The Missus\" - our very own visiting cockatoos.  We also provide a refuge for rescue animals.  Feel free to say hello to the Shetland pony Gingernuts, our latest addition.</p><p><br></p><p><span style=\"font-size: 14px; text-align: center; line-height: 1.5;\">Summerhill Farm is a beautiful place to visit at any time of the year. &nbsp;Each season has its own appeal.</span><br></p><p><br></p><p><br></p><p></p>"
         },
         {
           "_styles": {
@@ -1029,7 +1034,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_inherit": "gallery1",
@@ -1110,7 +1115,9 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "15px"
+              "font-size": "14px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             "SPAN": {
               "text-align": "right",
@@ -1258,7 +1265,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_tags": [
@@ -1308,7 +1315,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3972.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3970.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1324,7 +1331,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3953.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3951.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1513,7 +1520,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_styles": {
@@ -1522,8 +1529,10 @@
             },
             "SMALL": {
               "text-align": "right",
-              "color": "#000000",
-              "font-size": "14px"
+              "color": "#28324e",
+              "font-size": "14px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             "H3": {
               "color": "#28324e",
@@ -1553,6 +1562,9 @@
           "_name": "features3",
           "_styles": {
             "H4": {
+              "color": "#28324e"
+            },
+            "H5": {
               "color": "#28324e"
             }
           },
@@ -1592,7 +1604,7 @@
             }
           },
           "title1": "Little Alpaca Flinders<br><br>",
-          "subtitle1": "33 Cook Street, Flinders",
+          "subtitle1": "3/37 Cook Street, Flinders",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -1814,7 +1826,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_styles": {
@@ -1844,7 +1856,9 @@
             "SMALL": {
               "text-align": "right",
               "color": "#28324e",
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             "H3": {
               "color": "#28324e",
@@ -1887,7 +1901,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bedroom-dressing-table-and-window-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bedroom-dressing-table-and-window-2000x1500.jpg",
-                "caption": "Cottage Bedroom",
+                "caption": "Cottage bedroom",
                 "active": false
               },
               {
@@ -1907,7 +1921,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bedroom-through-to-lounge-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bedroom-through-to-lounge-2000x1500.jpg",
-                "caption": "Cottage Bedroom",
+                "caption": "Cottage bedroom",
                 "active": false
               },
               {
@@ -1927,7 +1941,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/blue-cottage-morning-coffee-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/blue-cottage-morning-coffee-2000x2000.jpg",
-                "caption": "Terrace &amp; Morning Coffee",
+                "caption": "Terrace &amp; morning coffee",
                 "active": false
               },
               {
@@ -1937,7 +1951,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cottage-kitchen-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cottage-kitchen-2000x1500.jpg",
-                "caption": "Cottage Kitchen",
+                "caption": "Cottage kitchen",
                 "active": false
               },
               {
@@ -1947,7 +1961,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cottage-lounge-2000x1468-800x587.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cottage-lounge-2000x1468.jpg",
-                "caption": "<a href=\"http://johnnyripe.com.au/\">C</a>ottage Lounge",
+                "caption": "<a href=\"http://johnnyripe.com.au/\">C</a>ottage lounge",
                 "active": false
               },
               {
@@ -1957,7 +1971,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/view-from-eastern-side3-2000x1343-800x537.jpg",
                 "image": "@PROJECT_PATH@/assets/images/view-from-eastern-side3-2000x1343.jpg",
-                "caption": "Cottage Exterior",
+                "caption": "Cottage exterior",
                 "active": false
               }
             ],
@@ -2024,7 +2038,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bedroom1-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bedroom1-2000x1500.jpg",
-                "caption": "Edwardian Suite Bedroom",
+                "caption": "Edwardian Suite bedroom",
                 "active": false
               },
               {
@@ -2034,7 +2048,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hall-entrance1-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hall-entrance1-2000x1500.jpg",
-                "caption": "Edwardian Suite Entrance Hall",
+                "caption": "Edwardian Suite entrance hall",
                 "active": false
               },
               {
@@ -2044,7 +2058,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flowers-in-front-of-edwardian-suite3-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/flowers-in-front-of-edwardian-suite3-2000x1500.jpg",
-                "caption": "Edwardian Suite Roses",
+                "caption": "Edwardian Suite roses",
                 "active": false
               },
               {
@@ -2054,7 +2068,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lounge-from-hall-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lounge-from-hall-2000x2666.jpg",
-                "caption": "<p>Edwardian Suite from Hall</p>",
+                "caption": "<p>Edwardian Suite from hall</p>",
                 "active": false
               },
               {
@@ -2064,7 +2078,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/verandah3-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/verandah3-2000x2666.jpg",
-                "caption": "Edwardian Suite Verandah",
+                "caption": "Edwardian Suite verandah",
                 "active": false
               },
               {
@@ -2074,7 +2088,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bathroom-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bathroom-2000x2666.jpg",
-                "caption": "Edwardian Suite Bathroom",
+                "caption": "Edwardian Suite bathroom",
                 "active": false
               },
               {
@@ -2084,7 +2098,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hall-entrance-3-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hall-entrance-3-2000x1500.jpg",
-                "caption": "Edwardian Suite from Hall",
+                "caption": "Edwardian Suite from hall",
                 "active": true
               },
               {
@@ -2094,7 +2108,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sideboard-lounge-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sideboard-lounge-2000x1500.jpg",
-                "caption": "Cottage Exterior",
+                "caption": "Edwardian Suite sideboard",
                 "active": false
               }
             ],
@@ -2162,7 +2176,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-1728-2000x1500-2-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-1728-2000x1500-2.jpg",
                 "caption": "Roses",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -2171,7 +2185,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0062-2000x1500-1-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0062-2000x1500-1.jpg",
-                "caption": "Lavendar and Roses",
+                "caption": "Lavendar and roses",
                 "active": false
               },
               {
@@ -2181,7 +2195,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-3127-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-3127-2000x2666.jpg",
-                "caption": "The Driveway",
+                "caption": "The driveway",
                 "active": false
               },
               {
@@ -2189,10 +2203,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0165-2000x1333-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-0165-2000x1333-1.jpg",
-                "caption": "<p>Garden Gate</p>",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/img-0158-2000x1333-3-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0158-2000x1333-3.jpg",
+                "caption": "<p>Morning mist</p>",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -2211,7 +2225,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/33189175-2000x1095-800x438.jpg",
                 "image": "@PROJECT_PATH@/assets/images/33189175-2000x1095.jpg",
-                "caption": "View from Verandah",
+                "caption": "View from verandah",
                 "active": false
               },
               {
@@ -2221,7 +2235,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0156-2000x1333-2-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0156-2000x1333-2.jpg",
-                "caption": "View from Cottage Porch",
+                "caption": "View from cottage porch",
                 "active": false
               },
               {
@@ -2231,7 +2245,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ducks-on-pond-2000x1500-1-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ducks-on-pond-2000x1500-1.jpg",
-                "caption": "Ducks on the Pond",
+                "caption": "Ducks on the pond",
                 "active": false
               }
             ],
@@ -2380,7 +2394,12 @@
               "font-size": "14px"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#28324e"
+            },
+            "SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "_tags": [
@@ -2438,6 +2457,10 @@
             },
             "H3": {
               "font-size": "36px"
+            },
+            "SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "_tags": [
@@ -2621,7 +2644,10 @@
             },
             "SMALL": {
               "text-align": "right",
-              "color": "#28324e"
+              "color": "#28324e",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "14px"
             },
             "H3": {
               "color": "#28324e",
@@ -2642,7 +2668,7 @@
             "showMeta": true
           },
           "title": "Wedding &amp; Photo Shoots<br><br>",
-          "meta": "Over the years Summerhill Farm has been the location for wedding photos, &nbsp;an Australian ABC TV drama and promotional videos for fashion apparel. &nbsp;If you are looking for a rural backdrop for your special requirements, we offer both the garden and paddocks (with or without curious animals) for $200/hour. &nbsp;Bookings essential. &nbsp;Enquiries and inspection welcome. &nbsp;<br><br>Click on the following links for a sample of the photos and films shot at Summerhill Farm.<br><br><b>Fashion Film: &nbsp;Somebody's going to miss me</b>: &nbsp;https://vimeo.com/70459026<br><b>Wedding photos:</b> &nbsp;https://www.misspicklephotography.com.au/#/annamaria-shard/<br><b>Please Like Me</b>, Episode 1, Season 3, \"Eggplant\": &nbsp;http://www.abc.net.au/tv/programs/please-like-me/<br><br>"
+          "meta": "Over the years Summerhill Farm has been the location for wedding photos, &nbsp;an Australian ABC TV drama and promotional videos for fashion apparel. &nbsp;If you are looking for a rural backdrop for your special requirements, we offer both the garden and paddocks (with or without curious animals) for $200/hour. &nbsp;Bookings essential. &nbsp;Enquiries and inspection welcome. &nbsp;<br><br>Click on the following links for a sample of the photos and films shot at Summerhill Farm.<br><br><b>Fashion Film: &nbsp;Somebody's going to miss me</b>: &nbsp;https://vimeo.com/70459026<br><b>Wedding photos:</b> &nbsp;https://www.misspicklephotography.com.au/#/annamaria-shard/<br><b>Please Like Me</b>, Episode 1, Season 3, \"Eggplant\": &nbsp;http://www.abc.net.au/tv/programs/please-like-me/<br><b>Fashion shoot: &nbsp;Amano By Lorena Laing: &nbsp;</b>https://www.facebook.com/pg/amanobylorenalaing/photos/?ref=page_internal<br><br>"
         },
         {
           "_styles": {
@@ -2762,7 +2788,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_inherit": "gallery1",
@@ -2779,8 +2805,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2965-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2965-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lorena-laing5-2000x2496-800x998.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lorena-laing5-2000x2496.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2829,8 +2855,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alpaca-garment-2000x3019-800x1207.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alpaca-garment-2000x3019.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alpaca-garment-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alpaca-garment-4-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2839,10 +2865,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ams-64-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ams-64-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lorena-laing4-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lorena-laing4-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -2852,7 +2878,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ams-51-2000x1332-800x532.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ams-51-2000x1332.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
@@ -2998,7 +3024,9 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             "B": {
               "color": "#28324e",
@@ -3052,7 +3080,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077."
+          "text": "Summerhill Farm 2017. &nbsp;Email: &nbsp;summerhillfarm@westnet.com.au. &nbsp;Phone: &nbsp;(61) 3 5989 6077"
         },
         {
           "_tags": [

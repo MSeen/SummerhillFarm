@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contact & Find Us.html",
+    "currentPage": "Wedding & Photo Shoots.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1308,7 +1308,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3970.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3972.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1324,7 +1324,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3951.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3953.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2642,7 +2642,7 @@
             "showMeta": true
           },
           "title": "Wedding &amp; Photo Shoots<br><br>",
-          "meta": "Over the years Summerhill Farm has been the location for wedding photos, &nbsp;an Australian ABC TV drama and promotional videos for fashion apparel. &nbsp;If you are looking for a rural backdrop for your special requirements, we offer both the garden and paddocks (with or without curious animals) for $200/hour. &nbsp;Enquiries and inspection welcome.<br><br>taken at the farm<br><br>Click on the following links for a sample of the photos and films shot at Summerhill Farm.<br><br><b>Fashion Film: &nbsp;Somebody's going to miss me</b>: &nbsp;https://vimeo.com/70459026<br><b>Wedding photos:</b> &nbsp;https://www.misspicklephotography.com.au/#/annamaria-shard/<br><b>Please Like Me</b>, Episode 1, Season 3, \"Eggplant\": &nbsp;http://www.abc.net.au/tv/programs/please-like-me/<br><br>"
+          "meta": "Over the years Summerhill Farm has been the location for wedding photos, &nbsp;an Australian ABC TV drama and promotional videos for fashion apparel. &nbsp;If you are looking for a rural backdrop for your special requirements, we offer both the garden and paddocks (with or without curious animals) for $200/hour. &nbsp;Bookings essential. &nbsp;Enquiries and inspection welcome. &nbsp;<br><br>Click on the following links for a sample of the photos and films shot at Summerhill Farm.<br><br><b>Fashion Film: &nbsp;Somebody's going to miss me</b>: &nbsp;https://vimeo.com/70459026<br><b>Wedding photos:</b> &nbsp;https://www.misspicklephotography.com.au/#/annamaria-shard/<br><b>Please Like Me</b>, Episode 1, Season 3, \"Eggplant\": &nbsp;http://www.abc.net.au/tv/programs/please-like-me/<br><br>"
         },
         {
           "_styles": {

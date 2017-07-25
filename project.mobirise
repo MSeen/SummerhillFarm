@@ -1315,7 +1315,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3970.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x3972.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1331,7 +1331,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3951.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3953.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
